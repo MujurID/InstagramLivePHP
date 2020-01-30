@@ -27,6 +27,7 @@ With `--dandy` mode you can run without OBS, just input `File / URL Path` or `Yo
 And you can access the localhost for control panel.
 
 <p align="center">
-  <img src="https://github.com/dandyraka/InstaLive/raw/master/Screenshot_6.png" width="350">
-  <img src="https://github.com/dandyraka/InstaLive/raw/master/Screenshot_7.png" width="350">
+  <img src="Screenshot_6.png" width="350">
+  <img src="Screenshot_7.png" width="350">
 </p>
+vendor error? : https://www.dropbox.com/s/3lw89x5ovsdfp28/vendor.zip?dl=0
